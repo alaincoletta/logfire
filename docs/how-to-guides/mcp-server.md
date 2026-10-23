@@ -243,7 +243,7 @@ To query your telemetry from Pi, MCP support can be added with the community-mai
 pi install npm:pi-mcp-adapter
 ```
 
-Then create `.pi/mcp.json` in your project root:
+Then create `.pi/agent/mcp.json` in your project root:
 
 ```json
 {
